@@ -22,5 +22,15 @@ I have tried to build a model that forecasts the pollution of next hour based on
 https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data#
 
 ## Installation Of Dependency
+First install 'pip' 
+
+```bash
+ $ pip install numpy
+ $ pip install pandas
+ $ pip install matplotlib
+ $ pip install seaborn.
+ $ pip install -U scikit-learn ( Windows )
+ $ pip install tensorflow
+```
 
 ## Results
